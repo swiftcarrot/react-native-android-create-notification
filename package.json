@@ -1,0 +1,9 @@
+{
+  "name": "react-native-android-create-notification",
+  "version": "0.1.0",
+  "description": "Create local notification in android with React Native",
+  "main": "index.js",
+  "repository": "git@github.com:swiftcarrot/react-native-android-create-notification.git",
+  "author": "Wang Zuo <wangzuo@swiftcarrot.com> (https://swiftcarrot.com)",
+  "license": "MIT"
+}
