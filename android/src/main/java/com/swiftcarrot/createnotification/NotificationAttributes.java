@@ -1,4 +1,4 @@
-package com.suncityhoiana.localnotification;
+package com.swiftcarrot.createnotification;
 
 import com.facebook.react.bridge.ReadableArray;
 import com.facebook.react.bridge.ReadableMap;

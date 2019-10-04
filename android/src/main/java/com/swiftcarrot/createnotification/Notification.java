@@ -1,4 +1,4 @@
-package com.suncityhoiana.localnotification;
+package com.swiftcarrot.createnotification;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
